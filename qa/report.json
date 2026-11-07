@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-07",
+  "static": "PASS: two responsive pages, unique anchors, working internal links, two sermon points, eighteen discussions",
+  "sources": "PASS: all six CCI short quotations match designated live sources; confession links HTTP 200",
+  "browser": "Codex in-app browser; desktop and mobile screenshots plus DOM inspection",
+  "viewports": [
+    {"width":320,"overflow":false,"uncontained_clipped_elements":0,"sections":16},
+    {"width":390,"overflow":false,"uncontained_clipped_elements":0,"sections":16},
+    {"width":768,"overflow":false,"uncontained_clipped_elements":0,"sections":16},
+    {"width":1440,"overflow":false,"uncontained_clipped_elements":0,"sections":16}
+  ],
+  "interactions": {"toc":"PASS, 16 links","map_topic":"PASS, Jonah reference updates","justice_checklist":"PASS, live status","memory_card":"PASS, answer revealed","all_answers":"PASS, eighteen answers open","theme":"PASS, dark and light"},
+  "limits": ["Device voice depends on available Chinese voices; audio not listened to.","Print stylesheet included; physical printing not tested.","Tables scroll within their own containers on narrow screens.","Six confessional texts provided through exact short quotations and full-source links, not full republication."]
+}

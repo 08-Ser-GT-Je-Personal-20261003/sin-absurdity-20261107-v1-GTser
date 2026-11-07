@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-07",
+  "sources": [
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/creeds/apostles-creed",
+      "status": 200,
+      "sha256": "616a4f67f21a34eecad1ec71f4e8710dba2a0b185313a722d218c29bda545608",
+      "quotes": [
+        {
+          "quote": "我相信罪得赦免；",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed",
+      "status": 200,
+      "sha256": "d4411c360d6c664f9ae0627eb93c3278609040bdc27bb638e7d9bdfc7a6b04f4",
+      "quotes": [
+        {
+          "quote": "我们信圣灵，赐生命的主",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/creeds/athanasian-creed",
+      "status": 200,
+      "sha256": "615f3baac889b0ba50e520f4ad4b91a1293e6643f81a7d1297b3461e2f384439",
+      "quotes": [
+        {
+          "quote": "尽管既是神又是人，基督仍是一位，而非两位。",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-43",
+      "status": 200,
+      "sha256": "ea920b170c7319608f171b4f8ffa81bdd3d61a6117c392227ecd07dde8675183",
+      "quotes": [
+        {
+          "quote": "也不可未经查问就随同他人轻率地定人的罪",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/7",
+      "status": 200,
+      "sha256": "763be3145bacd39706f7d4e64a68cb6a6362f4514859c5d3aaad6dda670e227b",
+      "quotes": [
+        {
+          "quote": "因为神的真理高于一切",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/11",
+      "status": 200,
+      "sha256": "1c3477bd680aebe7585a6dc83d5249a8393a746bacf14645685db480354c9cd3",
+      "quotes": [
+        {
+          "quote": "且藉着圣灵强有力地光照他们的理性",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section1/lord-day-2",
+      "status": 200,
+      "sha256": "fa41a09d03c9ec415e203faa52d65a37f4b7f90d9ffc8c197fdd882279e86a5f",
+      "quotes": []
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section1/lord-day-3",
+      "status": 200,
+      "sha256": "b1df53094b4e3052e60a46a2ee3b0a316b20f68b5a47381767f77d63009d0836",
+      "quotes": []
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-7",
+      "status": 200,
+      "sha256": "d4bdafe2fb0c181e8cba66058d71a73ad7d45c3c0def23e769a89e287602072a",
+      "quotes": []
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-16",
+      "status": 200,
+      "sha256": "087765c458b29b6dd4871d15497c23952a0bcf23fbe799039174b4f50988117b",
+      "quotes": []
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-44",
+      "status": 200,
+      "sha256": "04f729c1c7f2169ca4ddfca7078482236804a8404a5008666c3fb4db1dbff96a",
+      "quotes": []
+    }
+  ]
+}
