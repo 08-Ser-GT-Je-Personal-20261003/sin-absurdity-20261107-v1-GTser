@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/sin-absurdity-20261107-v1-GTser/index.html",
+    "status": 200,
+    "matches_local": true
+  },
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/sin-absurdity-20261107-v1-GTser/sermon.html",
+    "status": 200,
+    "matches_local": true
+  },
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/sin-absurdity-20261107-v1-GTser/style.css",
+    "status": 200,
+    "matches_local": true
+  },
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/sin-absurdity-20261107-v1-GTser/app.js",
+    "status": 200,
+    "matches_local": true
+  },
+  {
+    "url": "https://sin-absurdity-20261107-v1-gtser.surge.sh/index.html",
+    "status": 200,
+    "matches_local": true
+  },
+  {
+    "url": "https://sin-absurdity-20261107-v1-gtser.surge.sh/sermon.html",
+    "status": 200,
+    "matches_local": true
+  },
+  {
+    "url": "https://sin-absurdity-20261107-v1-gtser.surge.sh/style.css",
+    "status": 200,
+    "matches_local": true
+  },
+  {
+    "url": "https://sin-absurdity-20261107-v1-gtser.surge.sh/app.js",
+    "status": 200,
+    "matches_local": true
+  }
+]
